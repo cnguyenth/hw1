@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome to cmpe 131
 another line
+=======
+welcome to cmpe 131!
+>>>>>>> new-branch
